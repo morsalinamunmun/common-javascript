@@ -1,0 +1,10 @@
+1. Tell the difference between primitive and non-primitive data types in javascript.
+2. What are the truthy and falsy values? Give me some examples.
+3. What is the difference between null and undefined?
+4. What are the differences between double equal(==) and triple equal(===)?
+5. What is scope in javascript?
+6. Define block scope and global scope.
+7. what is hosting in javascript?
+8. How to use the javascript callback function?
+9. Explain closure in javascript
+10. Explain passed by value and passed by Reference.
